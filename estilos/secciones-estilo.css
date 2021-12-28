@@ -1,0 +1,24 @@
+.SECCION {
+    width: 100%;
+    margin: 50px;
+    padding: 50px;
+    height: 100%;
+    text-align: center;
+    font-size: 50px;
+}
+
+.eslogan {
+    margin-top: 50px;
+    padding-top: 50px;
+}
+
+
+.imagen-cuentos{
+width: 1500px;
+height: 1500px;
+    object-fit: cover;
+    display: block;
+   
+}
+
+
