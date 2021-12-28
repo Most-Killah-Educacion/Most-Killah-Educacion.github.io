@@ -51,4 +51,85 @@ height: 1500px;
     }
 }
 
+@media (max-width: 900px) {
+    .SECCION {
+        width: 100%;
+        margin-bottom: 40px;
+        margin-top: 40px;
+        padding-top: 40px;
+        padding-bottom: 40px;
+        height: 100%;
+        text-align: center;
+        font-size: 20px;
+    }
+    
+    .eslogan {
+        margin-top: 40px;
+        padding-top: 40px;
+    }
+    
+    
+    .imagen-cuentos{
+    width: 1500px;
+    height: 1500px;
+        object-fit: cover;
+        display: block;
+       
+    }
+}
+
+@media (max-width: 700px) {
+    .SECCION {
+        width: 100%;
+        margin-bottom: 20px;
+        margin-top: 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        height: 100%;
+        text-align: center;
+        font-size: 20px;
+    }
+    
+    .eslogan {
+        margin-top: 20px;
+        padding-top: 20px;
+    }
+    
+    
+    .imagen-cuentos{
+    width: 1500px;
+    height: 1500px;
+        object-fit: cover;
+        display: block;
+       
+    }
+}
+
+@media (max-width: 550px) {
+    .SECCION {
+        width: 100%;
+        margin-bottom: 20px;
+        margin-top: 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        height: 100%;
+        text-align: center;
+        font-size: 10px;
+    }
+    
+    .eslogan {
+        margin-top: 20px;
+        padding-top: 20px;
+    }
+    
+    
+    .imagen-cuentos{
+    width: 1500px;
+    height: 1500px;
+        object-fit: cover;
+        display: block;
+       
+    }
+}
+
 

@@ -14,3 +14,7 @@
 .imagen {
     width: 200px;
 }
+
+@media (max-width: 650px) {
+
+}
